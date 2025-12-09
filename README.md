@@ -29,7 +29,7 @@ This project serves as a sample business website model for showcasing clean UI, 
 
 ## 📂 Project Structure
 
-```sh
+```
 NexasCore/
 │── public/
 │── src/
@@ -52,7 +52,7 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-```sh
+```
 # Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/your-username/nexascore.git
 

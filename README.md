@@ -29,6 +29,7 @@ This project serves as a sample business website model for showcasing clean UI, 
 
 ## 📂 Project Structure
 
+```sh
 NexasCore/
 │── public/
 │── src/
@@ -43,7 +44,7 @@ NexasCore/
 │── index.html
 │── package.json
 │── vite.config.js
-│── README.md
+│── README.md  ```
 
 ## ⚙️ Installation & Setup
 
